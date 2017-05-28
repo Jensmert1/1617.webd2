@@ -1,2 +1,2 @@
-# jensmert1.github.io
-jensmert1's webspace
+# 1617.webd2.local
+Webdesign II Applications and Code Examples
